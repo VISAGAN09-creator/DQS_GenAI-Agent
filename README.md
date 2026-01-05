@@ -24,5 +24,11 @@ This system gives output in daily language model updates with fixed recommendati
 * Auto-Fix suggestions
 * Advanced Quality Rules (Anomaly detection, Cross-Customer pattern analysis)
 
+## Refer the Role of Each Tool
+* [CrewAI](report.md)
+* [Great Expectations](Great_Expectations_readme.md)
+* [Polars](polars_readme.md)
+* [Pydantic](Role%of%Pydantic%in%DQS.md)
+
 ## Authors
 Visagan G, Madesh S, Kiruthika C G, Nalina S   
