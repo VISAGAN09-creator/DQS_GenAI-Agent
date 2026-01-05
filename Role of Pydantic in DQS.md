@@ -6,7 +6,7 @@
 * Detailed error handling
 * Easy data integrity
 * Type coercion and parsing
-## Role of Pydantic in DQS (Data Quality Systems):
+## Role of Pydantic in DQS (Data Quality Scores):
 1.Gatekeeper role:
 
 * Rejects malformed rows before they reach our Master AI agents(validates).
